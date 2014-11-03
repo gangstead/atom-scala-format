@@ -2,7 +2,7 @@
   "name": "scala-format",
   "main": "lib/scala-format",
   "version": "0.1.0",
-  "description": "Scala Formatting using the Scalariform 0.1.5-SNAPSHOT",
+  "description": "Scala formatting using Scalariform 0.1.5-SNAPSHOT",
   "license": "MIT",
   "private": true,
   "repository": {

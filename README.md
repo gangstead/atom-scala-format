@@ -5,7 +5,8 @@ Atom package to format scala files with standard scalariform library.
 `cmd+ctrl+s` formats the current file in place using default Scalariform settings.  If the file does not have a .scala extension no action is done.  Also accessible from context (right click) menu and command palette.
 
 ## Installation
-This package isn't on the APM registry yet so you'll have to clone the repo and load the package in [developer mode][dev-mode-package]
+- Easiest way: Open preferences `cmd+,`. On the packages pane search for `scala format` and click `install`
+- Command line: `apm install scala-format`
 
 ## About Scalariform
 [Scalariform][scalariform] is the official code formatter for Scala.  It's the de facto formatter used by most tools, including [Scala IDE][scala-ide].
