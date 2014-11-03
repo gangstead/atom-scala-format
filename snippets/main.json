@@ -1,0 +1,12 @@
+{
+  ".source": {
+    "Yeoman website": {
+      "prefix": "yo_url",
+      "body": "http://yeoman.io/"
+    },
+    "Yeoman description": {
+      "prefix": "yo_desc",
+      "body": "Yeoman is a robust and opinionated client-side stack, comprising tools and\nframeworks that can help developers quickly build beautiful web\napplications. We take care of providing everything needed to get started\nwithout any of the normal headaches associated with a manual setup."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "context-menu": {
+    ".workspace": {
+      "Toggle Yeoman background": "scala-format:toggleBackground"
+    }
+  }
+}

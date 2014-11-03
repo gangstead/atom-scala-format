@@ -1,0 +1,22 @@
+{
+  "fileTypes": [
+    "yeoman",
+    "yo",
+    "scala"
+  ],
+  "patterns": [
+    {
+      "match": "(yo+)",
+      "captures": {
+        "1": {
+          "name": "keyword.control.untitled"
+        }
+      }
+    },
+    {
+      "match": "endyo",
+      "name": "keyword.control.untitled"
+    }
+  ],
+  "scopeName": "scala-format"
+}
