@@ -7,11 +7,11 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/gangstead/scala-format.git"
+    "url": "https://github.com/gangstead/atom-scala-format.git"
   },
-  "homepage": "https://github.com/gangstead/scala-format",
+  "homepage": "https://github.com/gangstead/atom-scala-format",
   "bugs": {
-    "url": "https://github.com/gangstead/scala-format/issues"
+    "url": "https://github.com/gangstead/atom-scala-format/issues"
   },
   "engines": {
     "atom": ">0.50.0"

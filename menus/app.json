@@ -7,10 +7,6 @@
           "label": "scala-format",
           "submenu": [
             {
-              "label": "Toggle Yeoman background",
-              "command": "scala-format:toggleBackground"
-            },
-            {
               "label": "Format File",
               "command": "scala-format:format"
             }

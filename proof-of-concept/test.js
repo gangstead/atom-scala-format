@@ -1,4 +1,4 @@
-//node test.js test.scala
+//run with `node test.js test.scala`
 
 var exec = require('child_process').exec, child;
 
